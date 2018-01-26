@@ -1,6 +1,6 @@
 # STM32 F1 StdPeriph course
 
-Sollution to all problems at the following [STM32 course](https://forbot.pl/blog/stm32-praktyce-1-platforma-srodowisko-id2733) (in polish).
+Sollution to all problems from the following [STM32 course](https://forbot.pl/blog/stm32-praktyce-1-platforma-srodowisko-id2733) (in polish).
 
 Topics covered:
 * Basic info about STM32 
